@@ -1,5 +1,6 @@
-# bxlogger
-bxlogger
+# bdx-logger
+
+bdx-logger
 
 ## Feature
 
